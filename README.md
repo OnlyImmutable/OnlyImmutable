@@ -3,10 +3,11 @@
 <br />
 <div align="center">
   <a href="https://github.com/onlyimmutable">
-    <img src="https://www.example.com/" alt="Header" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/OnlyImmutable/OnlyImmutable/master/assets/header.jpg" alt="Header" width="1920" height="250">
   </a>
 
 <h2 align="center">OnlyImmutable</h2>
+  <br/>
   <p align="center">
     <a href="https://www.linkedin.com/in/onlyimmutable/" target="_blank" style="color: #672FED">Linkedin</a>
     ·
