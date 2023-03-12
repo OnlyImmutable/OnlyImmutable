@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/onlyimmutable">
-    <img src="https://raw.githubusercontent.com/OnlyImmutable/OnlyImmutable/master/assets/header.jpg" alt="Header" width="1920" height="150">
+    <img src="https://raw.githubusercontent.com/OnlyImmutable/OnlyImmutable/master/assets/header.jpg" alt="Header">
   </a>
 
 <h2 align="center">OnlyImmutable</h2>
