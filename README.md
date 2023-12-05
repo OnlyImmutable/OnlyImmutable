@@ -18,7 +18,7 @@ Jake excels at communication with internal and external stakeholders, building e
 - Data and security
 - Gaming
 
-Jake is currently working on <a href="https://www.immutable3.com/" target="_blank" style="color: #672FED">Immutable3</a>, a UK based Web 3.0 company founded in 2022 developing a unique and secure NFT driven digital identification platform allowing consumers worldwide to create a secure and trustworthy digital identity for control and ownership over their data.
+Jake is currently working on <a href="https://www.immutable3.com/" target="_blank" style="color: #672FED">Immutable3</a>, a UK based Web 3.0 & AI company founded in 2022 developing an all in one platform for photographers, videographers, and studios to shape the future of visual storytelling. Showcase work, attract clients, and seamlessly manage the end-to-end process.
 
 # **Social media**
 
