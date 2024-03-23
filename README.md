@@ -8,24 +8,20 @@
 
 
 # **About**
-Jake is a versatile and driven fullstack engineer & entrepreneur with 9 years of industry experience. 
+Jake is a versatile and driven full-stack engineer and entrepreneur with 10 years of experience delivering innovative solutions across a range of industries. He is skilled at communicating effectively with internal and external stakeholders, building enterprise-capable solutions, and solving complex technical problems.
 
-Jake excels at communication with internal and external stakeholders, building enterprise capable solutions, building and working in teams and solving complex tasks and problems.  In addition, Jake has a passion for and excels with projects oriented around...
+With a passion for cutting-edge technology, Jake excels at driving innovation and delivering exceptional results. He has a particular interest in projects related to Web3, artificial intelligence, cloud technology and infrastructure, data, security, and gaming.
 
-- Web3
-- Artificial intelligence 
-- Cloud technology and infrastructure
-- Data and security
-- Gaming
+Currently, Jake is working on @MedicatorAI, a UK-based AI  company founded in 2022. At MedicatorAI, Jake is leading the business forward with the development of an advanced AI-driven app effortlessly links users with affordable medical professionals worldwide, simplifying international healthcare seeking. 
 
-Jake is currently working on <a href="https://www.immutable3.com/" target="_blank" style="color: #672FED">Immutable3</a>, a UK based Web 3.0 & AI company founded in 2022 developing an all in one platform for photographers, videographers, and studios to shape the future of visual storytelling. Showcase work, attract clients, and seamlessly manage the end-to-end process.
+With expertise in cutting-edge technologies, his entrepreneurial spirit, and his ability to deliver exceptional results, Jake is a valuable asset to any team looking to drive innovation and achieve their business goals.
 
 # **Social media**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/onlyimmutable/" target="_blank" style="color: #672FED">Linkedin</a>
+  <a href="https://www.linkedin.com/in/onlyimmutable/" target="_blank" style="color: #2C2CAE">Linkedin</a>
   ·
-  <a href="https://www.twitter.com/onlyimmutable/" target="_blank" style="color: #672FED">Twitter</a>
+  <a href="https://www.twitter.com/onlyimmutable/" target="_blank" style="color: #2C2CAE">Twitter</a>
   ·
-  <a href="https://www.immutable3.com/" target="_blank" style="color: #672FED">Immutable3</a>
+  <a href="https://www.medicator.ai/" target="_blank" style="color: #2C2CAE">MedicatorAI</a>
 </p>
